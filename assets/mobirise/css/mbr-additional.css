@@ -1054,7 +1054,7 @@ a {
 .cid-sFHvmoQ5Jg {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-sFHvmoQ5Jg .row {
   align-items: center;
@@ -1078,6 +1078,13 @@ a {
 .cid-sFHvmoQ5Jg .image-wrapper img {
   width: 100%;
   object-fit: cover;
+}
+.cid-sFHvmoQ5Jg .mbr-text,
+.cid-sFHvmoQ5Jg .mbr-section-btn {
+  color: #d3efed;
+}
+.cid-sFHvmoQ5Jg .card-title {
+  color: #8bcdae;
 }
 .cid-tQeeaDAW0f {
   padding-top: 6rem;
@@ -1106,7 +1113,7 @@ a {
 .cid-tQeeaDAW0f .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #ffffff;
+  background: #8bcdb1;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
